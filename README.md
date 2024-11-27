@@ -2,11 +2,14 @@
 
 K-Means Clustering for Accommodation Selection: 
 Project Overview
+
 Objective: Help students find suitable accommodations in Bangalore (or other cities) based on:
 Amenities (Wi-Fi, laundry, meals, etc.)
 Budget (low, medium, high)
 Proximity to colleges and key locations.
-Methodology: Use K-Means Clustering to classify accommodations and present the results visually.
+
+Methodology:
+Use K-Means Clustering to classify accommodations and present the results visually.
 Real-World Relevance:
 Saves time for students.
 Assists businesses (e.g., real estate developers, restaurant chains) in optimizing decisions.
