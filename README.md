@@ -1,6 +1,6 @@
 # Exploratory-data-analysis-on-geolocational-data
 
-K-Means Clustering for Accommodation Selection: Revision Notes
+K-Means Clustering for Accommodation Selection: 
 Project Overview
 Objective: Help students find suitable accommodations in Bangalore (or other cities) based on:
 Amenities (Wi-Fi, laundry, meals, etc.)
